@@ -1,4 +1,6 @@
 {
+	// ianmorozoff.com
+	// 2023-02-15
 	// Sample PowerShell snippet for a Foreach loop with Write-Progress initialized
 
 	"Foreach with Progress": {
@@ -19,5 +21,4 @@
 		],
 		"description": "Insert a foreach loop with Write-Progress initialized"
 	}
-
 }
