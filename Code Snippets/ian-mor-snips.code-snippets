@@ -1,7 +1,7 @@
 {
 	// ianmorozoff.com
 	// 2023-02-15
-	// Sample PowerShell snippet for a Foreach loop with Write-Progress initialized
+	// Sample VSCode snippet of a PowerShell Foreach loop with Write-Progress initialized
 
 	"Foreach with Progress": {
 		"scope": "powershell",
